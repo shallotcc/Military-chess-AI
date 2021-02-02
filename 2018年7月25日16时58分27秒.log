@@ -1,0 +1,235 @@
+游戏开始
+先手开始布局
+发送指令：INFORMATION 1.0
+
+收到指令：NAME GaGaChess
+
+
+引擎信息: NAME GaGaChess
+
+发送指令：START 0 1800 31
+
+收到指令：ARRAY diahcbgkkfiecfigjhedjljhg
+
+
+先手布局成功
+后手开始布局
+发送指令：INFORMATION 1.0
+
+收到指令：NAME The Splendor Of Knight
+
+
+引擎信息: NAME The Splendor Of Knight
+
+发送指令：START 1 1800 31
+
+收到指令：ARRAY bicgcakdgifgeekjfhjjihhld
+
+
+后手布局成功
+开始行棋
+发送指令：GO 0000 0 00
+
+收到指令：BESTMOVE G2F2
+
+
+发送指令：RESULT 1 00
+
+1-先手: G2F2 结果:1 
+发送指令：GO F2G2 1 00
+
+收到指令：BESTMOVE H2G2
+
+
+发送指令：RESULT 2 A3
+
+2-后手: E2F2 结果:2
+发送指令：GO E2F2 2 00
+
+收到指令：BESTMOVE G0H1
+
+
+发送指令：RESULT 3 00
+
+3-先手: G0H1 结果:3 
+发送指令：GO F4E3 3 A3
+
+收到指令：BESTMOVE G0F0
+
+
+发送指令：RESULT 1 A3
+
+4-后手: F4G4 结果:1
+发送指令：GO F4G4 1 00
+
+收到指令：BESTMOVE H0F0
+
+
+发送指令：RESULT 1 00
+
+5-先手: H0F0 结果:1 
+发送指令：GO E4G4 1 A3
+
+收到指令：BESTMOVE H4H3
+
+
+发送指令：RESULT 3 A3
+
+6-后手: E0E1 结果:3
+发送指令：GO E0E1 3 00
+
+收到指令：BESTMOVE F0D0
+
+
+发送指令：RESULT 1 00
+
+7-先手: F0D0 结果:1 
+发送指令：GO G4I4 1 A3
+
+收到指令：BESTMOVE J4I4
+
+
+发送指令：RESULT 2 A3
+
+8-后手: C0D0 结果:2
+发送指令：GO C0D0 2 00
+
+收到指令：BESTMOVE G1B0
+
+
+发送指令：RESULT 1 00
+
+9-先手: G1B0 结果:1 
+发送指令：GO F3K4 1 A3
+
+收到指令：BESTMOVE J2J3
+
+
+发送指令：RESULT 3 A3
+
+10-后手: C2C1 结果:3
+发送指令：GO C2C1 3 00
+
+收到指令：BESTMOVE B0A0
+
+
+发送指令：RESULT 0 00
+
+11-先手: B0A0 结果:0 
+发送指令：GO K4L4 0 A3
+
+收到指令：BESTMOVE G1F4
+
+
+发送指令：RESULT 3 A3
+
+12-后手: F3G0 结果:3
+发送指令：GO F3G0 3 00
+
+收到指令：BESTMOVE G3G0
+
+
+发送指令：RESULT 1 00
+
+13-先手: G3G0 结果:1 
+发送指令：GO F1F4 1 A3
+
+收到指令：BESTMOVE F0F4
+
+
+发送指令：RESULT 1 A3
+
+14-后手: G4G0 结果:1
+发送指令：GO G4G0 1 00
+
+收到指令：BESTMOVE I0G0
+
+
+发送指令：RESULT 2 00
+
+15-先手: I0G0 结果:2 
+发送指令：GO D4F4 2 A3
+
+收到指令：BESTMOVE G3G4
+
+
+发送指令：RESULT 3 A3
+
+16-后手: F1F0 结果:3
+发送指令：GO F1F0 3 00
+
+收到指令：BESTMOVE J0F0
+
+
+发送指令：RESULT 1 00
+
+17-先手: J0F0 结果:1 
+发送指令：GO C4G4 1 A3
+
+收到指令：BESTMOVE J3I4
+
+
+发送指令：RESULT 3 A3
+
+18-后手: C1D0 结果:3
+发送指令：GO C1D0 3 00
+
+收到指令：BESTMOVE F0D0
+
+
+发送指令：RESULT 1 00
+
+19-先手: F0D0 结果:1 
+发送指令：GO G4I4 1 A3
+
+收到指令：BESTMOVE H0E0
+
+
+发送指令：RESULT 2 A3
+
+20-后手: E4H4 结果:2
+发送指令：GO E4H4 2 A1
+
+收到指令：BESTMOVE D0B0
+
+
+发送指令：RESULT 3 A1
+
+21-先手: D0B0 结果:3 
+发送指令：GO I4K4 3 A3
+
+收到指令：BESTMOVE I0H1
+
+
+发送指令：RESULT 3 A3
+
+22-后手: D4E3 结果:3
+发送指令：GO D4E3 3 A1
+
+收到指令：BESTMOVE B0A0
+
+
+发送指令：RESULT 1 A1
+
+23-先手: B0A0 结果:1 
+发送指令：GO K4L4 1 A3
+
+收到指令：BESTMOVE I3I4
+
+
+发送指令：RESULT 3 A3
+
+24-后手: D1D0 结果:3
+发送指令：GO D1D0 3 A1
+
+收到指令：BESTMOVE A0A1
+
+
+发送指令：RESULT 1 A1
+
+25-先手: A0A1 结果:1 
+先手胜利 比赛结束
+发送指令：END 1
+
+发送指令：END 0
+
